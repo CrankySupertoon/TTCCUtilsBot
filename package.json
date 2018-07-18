@@ -1,0 +1,19 @@
+{
+  "name": "ToonTownInvasionBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "eris": "^0.8.6",
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.2"
+  }
+}
